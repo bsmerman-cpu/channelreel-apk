@@ -1,8 +1,8 @@
 {
-  "versionCode": 2036,
-  "versionName": "2.2.36",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.36.apk",
-  "sha256": "e14be43bf12d2333e631a8c5a721eb89252bda662f63767985476b0f5dfbd4e0",
-  "size": 5907493,
-  "notes": "Cleans up the standard channel lineup: tidy channel and category names, removes divider rows, and fits channels to the TV Guide."
+  "versionCode": 2037,
+  "versionName": "2.2.37",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.37.apk",
+  "sha256": "d256c37c220eda4efc6434be345f33c62e3d76c81c73a9922ceadb54d223d40e",
+  "size": 5908377,
+  "notes": "Hides international channels (toggle in Account) and consolidates all pay-per-view under one PPV events filter so the sports lineup is far less cluttered."
 }
