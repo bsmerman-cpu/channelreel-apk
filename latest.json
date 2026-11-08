@@ -1,8 +1,8 @@
 {
-  "versionCode": 2034,
-  "versionName": "2.2.34",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.34.apk",
-  "sha256": "97094d26b2fb9f3330a890d427b875ee4e8f71213afc06af74d01fe308878fd6",
-  "size": 5907221,
-  "notes": "Smoother remote navigation on Home (Movies/Series and Live), plus automatic in-app updates and the fixed TV Guide preview window."
+  "versionCode": 2036,
+  "versionName": "2.2.36",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.36.apk",
+  "sha256": "e14be43bf12d2333e631a8c5a721eb89252bda662f63767985476b0f5dfbd4e0",
+  "size": 5907493,
+  "notes": "Cleans up the standard channel lineup: tidy channel and category names, removes divider rows, and fits channels to the TV Guide."
 }
