@@ -1,8 +1,8 @@
 {
-  "versionCode": 2037,
-  "versionName": "2.2.37",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.37.apk",
-  "sha256": "d256c37c220eda4efc6434be345f33c62e3d76c81c73a9922ceadb54d223d40e",
-  "size": 5908377,
-  "notes": "Hides international channels (toggle in Account) and consolidates all pay-per-view under one PPV events filter so the sports lineup is far less cluttered."
+  "versionCode": 2038,
+  "versionName": "2.2.38",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.38.apk",
+  "sha256": "79a91d313a34f3384c332f126f5605d665b9f6ce442a3fe796c7f57ee2430418",
+  "size": 5908693,
+  "notes": "Live feeds now auto-reconnect when they drop and fail over to another channel showing the same game, with a wider sports channel match."
 }
