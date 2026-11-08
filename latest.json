@@ -1,8 +1,8 @@
 {
-  "versionCode": 2038,
-  "versionName": "2.2.38",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.38.apk",
-  "sha256": "79a91d313a34f3384c332f126f5605d665b9f6ce442a3fe796c7f57ee2430418",
-  "size": 5908693,
-  "notes": "Live feeds now auto-reconnect when they drop and fail over to another channel showing the same game, with a wider sports channel match."
+  "versionCode": 2039,
+  "versionName": "2.2.39",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.39.apk",
+  "sha256": "12c60b0e891d438481e769bacb406c7c7441f0986cdf4b8907888e35fe6ba814",
+  "size": 5908761,
+  "notes": "Fixes Movies/Series navigation: pressing Left on a poster now moves within the grid instead of opening the side menu."
 }
