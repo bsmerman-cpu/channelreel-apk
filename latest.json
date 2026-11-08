@@ -1,8 +1,8 @@
 {
-  "versionCode": 2039,
-  "versionName": "2.2.39",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.39.apk",
-  "sha256": "12c60b0e891d438481e769bacb406c7c7441f0986cdf4b8907888e35fe6ba814",
-  "size": 5908761,
-  "notes": "Fixes Movies/Series navigation: pressing Left on a poster now moves within the grid instead of opening the side menu."
+  "versionCode": 2040,
+  "versionName": "2.2.40",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.40.apk",
+  "sha256": "f3cbec17cc23c6f7cfa67bdeb9a0f953a214f1656010146f00024698cf5d8013",
+  "size": 5909417,
+  "notes": "Cleans up movie/series titles everywhere and makes the Sports tabs show scores instantly while channel matches load in the background."
 }
