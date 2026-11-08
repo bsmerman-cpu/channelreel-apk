@@ -1,8 +1,8 @@
 {
-  "versionCode": 2041,
-  "versionName": "2.2.41",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.41.apk",
-  "sha256": "610a9ab41410c7935f81b89fdf36d4e87e14b93b2becf6aac35bd78d7ab95a4d",
-  "size": 5910205,
-  "notes": "A dropped live channel now reconnects and, if needed, switches to another feed of the same channel automatically."
+  "versionCode": 2042,
+  "versionName": "2.2.42",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.42.apk",
+  "sha256": "ab6b78bee6f1009629b0dafe825c7a2f54f42e55e27ef9328dd8f1ad69ff84b4",
+  "size": 5910957,
+  "notes": "Combines duplicate feeds of the same channel into one entry (toggle in Account), with the extra feeds kept as automatic backups."
 }
