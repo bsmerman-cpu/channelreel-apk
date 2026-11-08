@@ -1,8 +1,8 @@
 {
-  "versionCode": 2033,
-  "versionName": "2.2.33",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.33.apk",
-  "sha256": "8e88e5902b89a8f64760a928a6a0c9ca2b34ad083ae9ba468a23ab449c3294e1",
-  "size": 5906861,
-  "notes": "Adds automatic in-app updates and fixes the TV Guide preview window sticking over full-screen playback."
+  "versionCode": 2034,
+  "versionName": "2.2.34",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.34.apk",
+  "sha256": "97094d26b2fb9f3330a890d427b875ee4e8f71213afc06af74d01fe308878fd6",
+  "size": 5907221,
+  "notes": "Smoother remote navigation on Home (Movies/Series and Live), plus automatic in-app updates and the fixed TV Guide preview window."
 }
