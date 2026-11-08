@@ -1,8 +1,8 @@
 {
-  "versionCode": 2040,
-  "versionName": "2.2.40",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.40.apk",
-  "sha256": "f3cbec17cc23c6f7cfa67bdeb9a0f953a214f1656010146f00024698cf5d8013",
-  "size": 5909417,
-  "notes": "Cleans up movie/series titles everywhere and makes the Sports tabs show scores instantly while channel matches load in the background."
+  "versionCode": 2041,
+  "versionName": "2.2.41",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.41.apk",
+  "sha256": "610a9ab41410c7935f81b89fdf36d4e87e14b93b2becf6aac35bd78d7ab95a4d",
+  "size": 5910205,
+  "notes": "A dropped live channel now reconnects and, if needed, switches to another feed of the same channel automatically."
 }
