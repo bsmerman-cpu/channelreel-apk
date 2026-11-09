@@ -1,8 +1,8 @@
 {
-  "versionCode": 2043,
-  "versionName": "2.2.43",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.43.apk",
-  "sha256": "57fef41e9fe8214fff4a9cb1678f6ee5c10fdb29ba0c91e200dbad33740d9abd",
-  "size": 5910993,
-  "notes": "Fixes a stray superscript digit left on some 4K/8K channel and category names, and adds unit tests for the lineup cleanup."
+  "versionCode": 2041,
+  "versionName": "2.2.41",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.41.apk",
+  "sha256": "389af409905207b30e3aa13a9dc9c8b7784d3f130528d30203cdaabd25998b96",
+  "size": 5909421,
+  "notes": "CI: auto-build and publish the Fire TV APK on push"
 }
