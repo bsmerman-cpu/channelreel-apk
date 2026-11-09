@@ -1,8 +1,8 @@
 {
-  "versionCode": 2042,
-  "versionName": "2.2.42",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.42.apk",
-  "sha256": "ab6b78bee6f1009629b0dafe825c7a2f54f42e55e27ef9328dd8f1ad69ff84b4",
-  "size": 5910957,
-  "notes": "Combines duplicate feeds of the same channel into one entry (toggle in Account), with the extra feeds kept as automatic backups."
+  "versionCode": 2043,
+  "versionName": "2.2.43",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.43.apk",
+  "sha256": "57fef41e9fe8214fff4a9cb1678f6ee5c10fdb29ba0c91e200dbad33740d9abd",
+  "size": 5910993,
+  "notes": "Fixes a stray superscript digit left on some 4K/8K channel and category names, and adds unit tests for the lineup cleanup."
 }
