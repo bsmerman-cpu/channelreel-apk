@@ -1,8 +1,8 @@
 {
-  "versionCode": 2050,
-  "versionName": "2.2.50",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.50.apk",
-  "sha256": "1507c617e37ee9d4f6727ce0fa582671f5619a879e185fd17fe03ddc2de679be",
-  "size": 5972858,
-  "notes": "Teams: pick a team to watch its game; tidier Live TV and guide navigation"
+  "versionCode": 2051,
+  "versionName": "2.2.51",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.51.apk",
+  "sha256": "32504e39e55e1f75207f58ab7256517b9bb6dc5165552ade72f3be05ec675d87",
+  "size": 5973058,
+  "notes": "Fix the long freeze after the channel list loads"
 }
