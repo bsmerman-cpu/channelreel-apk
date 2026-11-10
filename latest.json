@@ -1,8 +1,8 @@
 {
-  "versionCode": 2053,
-  "versionName": "2.2.53",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.53.apk",
-  "sha256": "a49ac3b26c68ccc91837d896e5cc047e3a24e506bf87e6dd9ff5974b0728e631",
-  "size": 5978322,
-  "notes": "TV Guide: shorter category list; step into team rows when they load"
+  "versionCode": 2054,
+  "versionName": "2.2.54",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.54.apk",
+  "sha256": "fe83f33272cdcc49ee990f324395f877cf9553d0ffb9c6df25eec09839d890a2",
+  "size": 5972918,
+  "notes": "Live TV opens straight into the guide; remove the separate Live TV page"
 }
