@@ -1,8 +1,8 @@
 {
-  "versionCode": 2047,
-  "versionName": "2.2.47",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.47.apk",
-  "sha256": "85905d057a6d6a23a32f3feb8f1b8714760692e0aeb355e315ffa612fbd4ae0f",
-  "size": 5949862,
-  "notes": "Fire TV: hide foreign GANJA categories but keep foreign sports"
+  "versionCode": 2048,
+  "versionName": "2.2.48",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.48.apk",
+  "sha256": "84d60af22c96d43386522a80eadc2017ec4fec09e8a2790d417d9e0ee597b968",
+  "size": 5953186,
+  "notes": "Add AGENTS.md: current branch, Fire TV publish flow and handover rules"
 }
