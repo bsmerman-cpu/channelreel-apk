@@ -1,8 +1,8 @@
 {
-  "versionCode": 2051,
-  "versionName": "2.2.51",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.51.apk",
-  "sha256": "32504e39e55e1f75207f58ab7256517b9bb6dc5165552ade72f3be05ec675d87",
-  "size": 5973058,
-  "notes": "Fix the long freeze after the channel list loads"
+  "versionCode": 2052,
+  "versionName": "2.2.52",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.52.apk",
+  "sha256": "92f0220f437a58a5396221f2d553b4b73290e87694c9fef6484ee542d9de6470",
+  "size": 5978058,
+  "notes": "TV Guide: league categories show a row per team with its game"
 }
