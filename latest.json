@@ -1,8 +1,8 @@
 {
-  "versionCode": 2048,
-  "versionName": "2.2.48",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.48.apk",
-  "sha256": "84d60af22c96d43386522a80eadc2017ec4fec09e8a2790d417d9e0ee597b968",
-  "size": 5953186,
-  "notes": "Add AGENTS.md: current branch, Fire TV publish flow and handover rules"
+  "versionCode": 2049,
+  "versionName": "2.2.49",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.49.apk",
+  "sha256": "43240045c4df4fe15ee757a776c89a9d41c87ea1219a170b62e4f54c26d6026b",
+  "size": 5953170,
+  "notes": "Smoother playback, clearer sign-in and larger text; fix update version numbers"
 }
