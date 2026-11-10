@@ -1,8 +1,8 @@
 {
-  "versionCode": 2052,
-  "versionName": "2.2.52",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.52.apk",
-  "sha256": "92f0220f437a58a5396221f2d553b4b73290e87694c9fef6484ee542d9de6470",
-  "size": 5978058,
-  "notes": "TV Guide: league categories show a row per team with its game"
+  "versionCode": 2053,
+  "versionName": "2.2.53",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.53.apk",
+  "sha256": "a49ac3b26c68ccc91837d896e5cc047e3a24e506bf87e6dd9ff5974b0728e631",
+  "size": 5978322,
+  "notes": "TV Guide: shorter category list; step into team rows when they load"
 }
