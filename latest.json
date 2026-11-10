@@ -1,8 +1,8 @@
 {
-  "versionCode": 2049,
-  "versionName": "2.2.49",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.49.apk",
-  "sha256": "43240045c4df4fe15ee757a776c89a9d41c87ea1219a170b62e4f54c26d6026b",
-  "size": 5953170,
-  "notes": "Smoother playback, clearer sign-in and larger text; fix update version numbers"
+  "versionCode": 2050,
+  "versionName": "2.2.50",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.50.apk",
+  "sha256": "1507c617e37ee9d4f6727ce0fa582671f5619a879e185fd17fe03ddc2de679be",
+  "size": 5972858,
+  "notes": "Teams: pick a team to watch its game; tidier Live TV and guide navigation"
 }
