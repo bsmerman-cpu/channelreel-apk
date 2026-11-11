@@ -1,8 +1,8 @@
 {
-  "versionCode": 2054,
-  "versionName": "2.2.54",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.54.apk",
-  "sha256": "fe83f33272cdcc49ee990f324395f877cf9553d0ffb9c6df25eec09839d890a2",
-  "size": 5972918,
-  "notes": "Live TV opens straight into the guide; remove the separate Live TV page"
+  "versionCode": 2055,
+  "versionName": "2.2.55",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.55.apk",
+  "sha256": "66027d42ef5174c2c5cb1608260a354aa4ca29297310738b8c28a291518e998c",
+  "size": 5972858,
+  "notes": "Fix updates blocked by \"Allow ChannelReel to install updates\" on Sony TVs"
 }
