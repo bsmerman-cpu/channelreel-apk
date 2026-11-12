@@ -1,8 +1,8 @@
 {
-  "versionCode": 2055,
-  "versionName": "2.2.55",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.55.apk",
-  "sha256": "66027d42ef5174c2c5cb1608260a354aa4ca29297310738b8c28a291518e998c",
-  "size": 5972858,
-  "notes": "Fix updates blocked by \"Allow ChannelReel to install updates\" on Sony TVs"
+  "versionCode": 2056,
+  "versionName": "2.2.56",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.56.apk",
+  "sha256": "aa590229899301ab99d43f5bccb3416c026e0bcc9d3a895145615c912614fd50",
+  "size": 5980478,
+  "notes": "Add Android mobile layouts, rotation and Picture in Picture"
 }
