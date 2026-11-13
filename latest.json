@@ -1,8 +1,8 @@
 {
-  "versionCode": 2056,
-  "versionName": "2.2.56",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.56.apk",
-  "sha256": "aa590229899301ab99d43f5bccb3416c026e0bcc9d3a895145615c912614fd50",
-  "size": 5980478,
-  "notes": "Add Android mobile layouts, rotation and Picture in Picture"
+  "versionCode": 2057,
+  "versionName": "2.2.57",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.57.apk",
+  "sha256": "f6c5c9c408ceaa71672c144b0b9de15e3d670890d197343fda5ca73f0fd3bebd",
+  "size": 5984554,
+  "notes": "Fix sports channel matching and add tennis with clearer watch options"
 }
