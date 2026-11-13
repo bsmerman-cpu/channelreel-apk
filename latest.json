@@ -1,8 +1,8 @@
 {
-  "versionCode": 2057,
-  "versionName": "2.2.57",
-  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.57.apk",
-  "sha256": "f6c5c9c408ceaa71672c144b0b9de15e3d670890d197343fda5ca73f0fd3bebd",
-  "size": 5984554,
-  "notes": "Fix sports channel matching and add tennis with clearer watch options"
+  "versionCode": 2058,
+  "versionName": "2.2.58",
+  "apkUrl": "https://raw.githubusercontent.com/bsmerman-cpu/channelreel-apk/main/channelreel-fire-tv-2.2.58.apk",
+  "sha256": "f44c3b4c73c910b674c697d49ded007cc926f6b067dedab08b8431d54a681f66",
+  "size": 5985238,
+  "notes": "Make TV Home easier to browse and remote navigation more predictable"
 }
